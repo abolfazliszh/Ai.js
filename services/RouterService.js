@@ -1,4 +1,4 @@
-import AppService from "AppService.js";
+import AppService from "./AppService.js";
 import { Routes } from "../routes.js";
 
 export default class RouterService {
